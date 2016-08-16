@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Sleeping", "Eating", "T-rexes", "Rocks", "Swimming", "Cats"];
+var things = ["Sleep", "Eat", "T-rex", "Rock", "Swimm", "Cat"];
 var programmers = ["swinger", "slider", "cook", "runer", "roller", "dresser"]
 var castles = ["lakes", "beaches", "rivers"]
 var exertions = ["log", "frog", "bog", "fog", "nog", "toes", "gnarley"];
