@@ -5,7 +5,7 @@
  */
 
 var things = ["Sleeping", "Eating", "T-rexes", "Rocks", "Swimming", "Cats"];
-var programmers = ["swing", "slide", "car", "run", "roll", "dress"]
+var programmers = ["swinger", "slider", "cook", "runer", "roller", "dresser"]
 var castles = ["lakes", "beaches", "rivers"]
 var exertions = ["log", "frog", "bog", "fog", "nog", "toes", "gnarley"];
 var airs = ["armpit", "elbow", "shoes", "hat", "tounge"];
